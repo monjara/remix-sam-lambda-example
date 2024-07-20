@@ -6,12 +6,6 @@
 - Docker
 - Node.js
 
-## setup
-
-```bash
-npm install
-```
-
 ## deploy
 
 ```bash
